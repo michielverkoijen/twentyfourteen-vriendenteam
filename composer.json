@@ -1,0 +1,10 @@
+{
+  "name": "michielverkoijen/twentyfourteen-vriendenteam",
+  "type": "wordpress-theme",
+  "license": "GPLv2",
+  "description": "Custom child theme of the Twenty Fourteen theme.",
+  "keywords": ["theme", "twentyfourteen"],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}

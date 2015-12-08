@@ -1,2 +1,3 @@
-# twentyfourteen-vriendenteam
-Custom child theme of the Twenty Fourteen theme.
+# Vriendenteam custom Twenty Fourteen theme
+
+Custom child theme based on the Twenty Fourteen theme.
